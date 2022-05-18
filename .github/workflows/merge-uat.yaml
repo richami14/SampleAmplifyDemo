@@ -4,7 +4,7 @@ on:
       - master
   workflow_dispatch:
 jobs:
-    merge_check:
+    merge_check_uat:
        runs-on: ubuntu-latest
        steps:
         - name: Check if the pull request is mergeable to master
