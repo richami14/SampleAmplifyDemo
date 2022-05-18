@@ -11,6 +11,6 @@ jobs:
           run: |
                 if [[ "$GITHUB_HEAD_REF" == 'develop' ]]; then exit 0; 
                 else
-                  echo "Only develop branch can be with UAT " 
+                  echo "Only develop branch can be merged with UAT " 
                   exit 1; 
                 fi;
