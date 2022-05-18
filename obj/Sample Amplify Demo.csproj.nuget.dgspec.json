@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Blendification\\Devops\\Sample Amplify Demo\\Sample Amplify Demo.csproj": {}
+    "D:\\POC\\SampleAmplifyDemo\\Sample Amplify Demo.csproj": {}
   },
   "projects": {
-    "D:\\Blendification\\Devops\\Sample Amplify Demo\\Sample Amplify Demo.csproj": {
+    "D:\\POC\\SampleAmplifyDemo\\Sample Amplify Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Blendification\\Devops\\Sample Amplify Demo\\Sample Amplify Demo.csproj",
+        "projectUniqueName": "D:\\POC\\SampleAmplifyDemo\\Sample Amplify Demo.csproj",
         "projectName": "Sample Amplify Demo",
-        "projectPath": "D:\\Blendification\\Devops\\Sample Amplify Demo\\Sample Amplify Demo.csproj",
+        "projectPath": "D:\\POC\\SampleAmplifyDemo\\Sample Amplify Demo.csproj",
         "packagesPath": "C:\\Users\\panandam\\.nuget\\packages\\",
-        "outputPath": "D:\\Blendification\\Devops\\Sample Amplify Demo\\obj\\",
+        "outputPath": "D:\\POC\\SampleAmplifyDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\panandam\\AppData\\Roaming\\NuGet\\NuGet.Config",
