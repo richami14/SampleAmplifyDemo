@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample Amplify Demo", "Sample Amplify Demo.csproj", "{BB631AEF-3FAC-46E6-A224-ED8BB2683633}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB631AEF-3FAC-46E6-A224-ED8BB2683633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB631AEF-3FAC-46E6-A224-ED8BB2683633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB631AEF-3FAC-46E6-A224-ED8BB2683633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB631AEF-3FAC-46E6-A224-ED8BB2683633}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56CB1D24-696D-4516-AB98-B13F8227B94F}
+	EndGlobalSection
+EndGlobal
